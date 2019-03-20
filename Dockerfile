@@ -1,4 +1,4 @@
-# specify DOcker image to use
+# specify Docker image to use
 FROM node:8
 
 # directory to hold app code inside this image
